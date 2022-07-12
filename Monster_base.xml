@@ -1,0 +1,6 @@
+<Monster_base_list Version="1.0">
+	<Monster_base_detail xml_mtype="">
+		<Monster_base_class xml_mname="" xml_mhp="0" xml_mstr="0" xml_mdef="0" xml_mdmg="0" xml_mlv="0" xml_mreturnexp="0"/>
+	</Monster_base_detail>
+</Monster_base_list>
+

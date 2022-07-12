@@ -1,0 +1,6 @@
+<Monster_list Version="1.0">
+	<Monster_detail xml_mtype="Dragon">
+		<Monster_class xml_mname="Elculu" xml_mhp="2000" xml_mstr="800" xml_mdef="1200" xml_mdmg="800" xml_mlv="280" xml_mreturnexp="500"/>
+	</Monster_detail>
+</Monster_list>
+

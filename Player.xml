@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Player>
+	<Player_detail xml_name="Tai" xml_age="20" xml_classname="Knight" xml_location="The land of Darkness" xml_hp="300" xml_str="200" xml_def="100" xml_agi="100" xml_dmg="100" xml_mp="100" xml_int="100" xml_lv="1" xml_exp="0">
+		<Player_item_list xml_player_item_list="This is player item list">
+			<Player_item xml_item_name="Heath potion" xml_item_price="500"/>
+			<Player_item xml_item_name="Mana potion" xml_item_price="200"/>
+			<Player_item xml_item_name="Heath potion" xml_item_price="500"/>
+		</Player_item_list>
+	</Player_detail>
+</Player>
+

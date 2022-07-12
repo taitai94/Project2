@@ -1,0 +1,12 @@
+<Char_list Version="1.0">
+	<Char_detail xml_Charname="Phuong Anh" xml_Charage="16">
+		<Char_class xml_pclassname="Witch" xml_plocation="US" xml_pskill="Speak" xml_php="0" xml_pstr="0" xml_pdef="0" xml_pagi="0" xml_pdmg="0" xml_pmp="0" xml_pint="0" xml_plv="1" xml_exp="0"/>
+	</Char_detail>
+	<Char_detail xml_Charname="Tin" xml_Charage="20">
+		<Char_class xml_pclassname="Knight" xml_plocation="The land of Darkness" xml_pskill="Darkness kill move!" xml_php="100" xml_pstr="200" xml_pdef="100" xml_pagi="100" xml_pdmg="200" xml_pmp="100" xml_pint="200" xml_plv="1" xml_exp="0"/>
+	</Char_detail>
+	<Char_detail xml_Charname="Tai" xml_Charage="25">
+		<Char_class xml_pclassname="Witch" xml_plocation="The land of Forest" xml_pskill="Run like hell" xml_php="100" xml_pstr="100" xml_pdef="100" xml_pagi="100" xml_pdmg="100" xml_pmp="100" xml_pint="100" xml_plv="1" xml_exp="0"/>
+	</Char_detail>
+</Char_list>
+
